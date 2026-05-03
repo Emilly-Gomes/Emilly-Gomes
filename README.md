@@ -61,6 +61,6 @@ if(leftSensor == 0 && rightSensor == 0){
 
 ## 📫 Contact
 
-- Email: YOUR_EMAIL  
-- LinkedIn: YOUR_LINKEDIN  
+- Email: emillygomesprofissional@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/emilly-gomes-84a9b6326/
 
