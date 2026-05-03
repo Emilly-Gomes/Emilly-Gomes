@@ -24,3 +24,43 @@ I also participated in **technology olympiads**, **workshops**, and several **ce
 void Update() {
     transform.Translate(Vector3.forward * speed * Time.deltaTime);
 }
+```
+
+### 🔹 Websites
+```html
+<section class="hero">
+  <h1>My Portfolio</h1>
+</section>
+```
+
+### 🔹 Robotics & Arduino — Line-Following Robot
+```c
+int leftSensor = digitalRead(A0);
+int rightSensor = digitalRead(A1);
+
+if(leftSensor == 0 && rightSensor == 0){
+  // move forward
+}
+```
+
+---
+
+## 🏅 Certificates & Achievements
+
+- Participation in Technology Olympiad  
+- Robotics and programming workshops  
+- Multiple certified short courses  
+
+---
+
+## 📊 GitHub Stats
+
+`https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical`
+
+---
+
+## 📫 Contact
+
+- Email: YOUR_EMAIL  
+- LinkedIn: YOUR_LINKEDIN  
+
